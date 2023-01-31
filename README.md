@@ -27,6 +27,6 @@ We provide our proposed robust seamless segmentation model. The weights can be d
 ## Publication 
 If you use our dataset, model or other code please consider referencing one of our following papers
 
-Jaus, Alexander, Kailun Yang, and Rainer Stiefelhagen. "Panoramic Panoptic Segmentation: Towards Complete Surrounding Understanding via Unsupervised Contrastive Learning." arXiv preprint arXiv:2103.00868 (2021). \[[PDF](https://arxiv.org/pdf/2103.00868.pdf)\]
+Jaus, Alexander, Kailun Yang, and Rainer Stiefelhagen. "Panoramic panoptic segmentation: Towards complete surrounding understanding via unsupervised contrastive learning." 2021 IEEE Intelligent Vehicles Symposium (IV). IEEE, 2021. \[[PDF](https://ieeexplore.ieee.org/iel7/9575127/9575130/09575904.pdf)\]
 
-Jaus, Alexander, Kailun Yang, and Rainer Stiefelhagen. "Panoramic panoptic segmentation: Insights into surrounding parsing for mobile agents via unsupervised contrastive learning." arXiv preprint arXiv:2206.10711 (2022). \[[PDF](https://arxiv.org/pdf/2206.10711.pdf)\]
+Jaus, Alexander, Kailun Yang, and Rainer Stiefelhagen. "Panoramic panoptic segmentation: Insights into surrounding parsing for mobile agents via unsupervised contrastive learning." IEEE Transactions on Intelligent Transportation Systems (2023). \[[PDF](https://ieeexplore.ieee.org/iel7/6979/4358928/10012449.pdf)\]
